@@ -1,0 +1,115 @@
+{
+  "document": {
+    "block_prefix": "\n",
+    "block_suffix": "\n",
+    "color": "255",
+    "margin": 2
+  },
+  "block_quote": {
+    "indent": 1,
+    "indent_token": "│ "
+  },
+  "paragraph": {},
+  "list": {
+    "level_indent": 2
+  },
+  "heading": {
+    "block_suffix": "\n",
+    "color": "214",
+    "bold": true
+  },
+  "h1": {
+    "prefix": "🍕 ",
+    "suffix": " 🍕",
+    "color": "255",
+    "background_color": "160",
+    "bold": true
+  },
+  "h2": {
+    "prefix": "## ",
+    "color": "214",
+    "bold": true
+  },
+  "h3": {
+    "prefix": "### ",
+    "color": "220"
+  },
+  "h4": {
+    "prefix": "#### "
+  },
+  "h5": {
+    "prefix": "##### "
+  },
+  "h6": {
+    "prefix": "###### "
+  },
+  "text": {},
+  "strikethrough": {
+    "crossed_out": true
+  },
+  "emph": {
+    "italic": true
+  },
+  "strong": {
+    "bold": true,
+    "color": "214"
+  },
+  "hr": {
+    "color": "160",
+    "format": "\n--------\n"
+  },
+  "item": {
+    "block_prefix": "• "
+  },
+  "enumeration": {
+    "block_prefix": ". "
+  },
+  "task": {
+    "ticked": "[✓] ",
+    "unticked": "[ ] "
+  },
+  "link": {
+    "color": "214",
+    "underline": true
+  },
+  "link_text": {
+    "color": "220",
+    "bold": true
+  },
+  "code": {
+    "prefix": " ",
+    "suffix": " ",
+    "color": "255",
+    "background_color": "160"
+  },
+  "code_block": {
+    "color": "255",
+    "margin": 2,
+    "chroma": {
+      "text": { "color": "#FFFFFF" },
+      "error": { "color": "#F1F1F1", "background_color": "#F05B5B" },
+      "comment": { "color": "#AAAAAA" },
+      "keyword": { "color": "#FFD700" },
+      "operator": { "color": "#FF6347" },
+      "punctuation": { "color": "#FFA500" },
+      "name": { "color": "#FFFFFF" },
+      "literal_number": { "color": "#FFD700" },
+      "literal_string": { "color": "#FFA07A" },
+      "background": { "background_color": "#1A1A1A" }
+    }
+  },
+  "table": {
+    "color": "214",
+    "background_color": "52",
+    "center_separator": "|",
+    "column_separator": "|",
+    "row_separator": "-"
+  },
+  "definition_list": {},
+  "definition_term": {},
+  "definition_description": {
+    "block_prefix": "\n🠶 "
+  },
+  "html_block": {},
+  "html_span": {}
+}
