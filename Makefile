@@ -30,6 +30,10 @@ setup:
 shell:
 	docker exec -it $(CONTAINER) bash
 
+## Open VS Code attached to the running container
+code:
+	code --folder-uri "vscode-remote://attached-container+$$(printf '{"containerName":"/$(CONTAINER)"}' | xxd -p | tr -d '\n')/$(WORKSPACE)"
+
 ## Stop and remove the container
 stop:
 	docker stop $(CONTAINER) && docker rm $(CONTAINER)
