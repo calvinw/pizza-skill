@@ -14,3 +14,7 @@
 .codex/
 .codex-tools/
 .crush.json
+
+# local-only docs
+roadmap.md
+videos.md
