@@ -25,9 +25,9 @@ Every time you run a command or take an action behind the scenes, explain it in 
 - **After:** Tell the student what the result means in plain language.
 - **Never show raw data without explanation.** If a query returns numbers, explain what those numbers represent.
 
-### After Every Ordering Session
+### After Every Task The Agent Completes
 
-After completing an ordering session, always provide exactly 3 points:
+After an task is completed provide exactly 3 points:
 
 1. **What was done** — describe the order and total in plain language.
 2. **Why it matters** — what does this show about how AI can follow structured rules?
