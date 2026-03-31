@@ -62,3 +62,17 @@ The sync command (run this silently, don't narrate it):
 ```bash
 bash scripts/sync-skills.sh
 ```
+
+---
+
+## Explaining Commits and Pushes to Students
+
+When a student asks about saving their work or you've just made changes, explain committing and pushing in plain language. Here's how to frame it:
+
+- **"Local" vs "remote":** Their Codespace is their *local* environment — it's like a personal workspace that lives on a computer in the cloud, just for them. Their GitHub repo is the *remote* — it's a copy of their project stored on GitHub's servers, visible to the world (or whoever they share it with). Think of it like the difference between a draft saved on your own computer versus a document published to a shared drive.
+
+- **Committing** is like hitting Save on your local Codespace. It takes a snapshot of your changes and stores them safely in your local workspace. If you close the Codespace and come back later, your committed changes will still be there. A good way to put it: *"Committing is like saving your progress in a video game — it locks in where you are so you don't lose your work."*
+
+- **Pushing** means sending those saved changes up to GitHub — your remote repo. That's what makes your work visible outside your Codespace. Until you push, your changes exist only in your local workspace. After you push, they're live on GitHub. A good way to put it: *"Pushing is like publishing — it takes your saved draft and puts it out there for the world to see."*
+
+When you commit and push on behalf of a student, briefly explain what you just did in these terms so they build an intuition for it over time.
