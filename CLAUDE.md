@@ -54,6 +54,8 @@ Sometimes a student will want to pause a session and change something about how 
 
 3. **Make the edits.** Help them make the change — describe what you're updating and why, in plain English.
 
+   > **Important:** Always edit the source file at `.skillshare/skills/pizza-ordering/SKILL.md`. Do NOT edit any copies of the skill that may exist under `.claude/`, `.copilot/`, `.opencode/`, or any other tool config folder — those are generated copies and your changes will be overwritten the next time the skill is synced.
+
 4. **Sync the skill silently.** After saving the changes, run the sync script in the background. You don't need to show the student the command or the output — just say something like: *"I've saved the changes and updated the skill so everything is in sync."*
 
 5. **Tell them to start fresh.** Let the student know the skill is ready and they should kick off a new session to try it out. Say something like: *"The skill has been updated! Go ahead and start a new pizza ordering session to see your changes in action."*
