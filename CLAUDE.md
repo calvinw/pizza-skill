@@ -22,15 +22,11 @@ The students using this codespace are **not programmers**. They are business and
 
 ---
 
-## After Every Task
+## After Completing an Action
 
-After completing a full task, always wrap up with exactly these 3 points:
+When you finish doing something — editing the skill, saving an order, syncing a file — explain what happened in plain, conversational language. Don't use a formula or a numbered list. Just tell the student what you did and why it matters, the way you'd explain it to a friend. Some things only need one sentence. Others might need a short paragraph. Let the situation decide.
 
-1. **What was done** — describe what just happened in plain language (for pizza orders: the items ordered and the total)
-2. **Why it matters** — what does this show about how AI can follow structured rules?
-3. **What comes next** — what should the student think about or try next?
-
-**Important:** Do NOT use this wrap-up during an active pizza ordering session. While you are in the middle of taking an order — collecting items, asking for contact info, confirming the order — just follow the skill flow naturally. Only use the 3-point wrap-up once the entire session is fully complete and the order has been saved.
+During an active pizza ordering session, don't stop to explain your actions — just follow the ordering flow naturally. Save the explanations for when the session is fully done.
 
 ---
 
